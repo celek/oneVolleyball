@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="opencsv-3.9.jar" sourcepath="opencsv-3.9-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/OneVolleyball/opencsv-3.9-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="commons-io-2.5.jar" sourcepath="commons-io-2.5-src.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/OneVolleyball/commons-io-2.5-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="commons-cli-1.4.jar" sourcepath="commons-cli-1.4-src.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/OneVolleyball/commons-cli-1.4-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="commons-net-3.6.jar" sourcepath="commons-net-3.6-src.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
